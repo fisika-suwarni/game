@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Game Fisika XII",
+  "short_name": "Fisika XII",
+  "description": "Rakit rangkaian listrik dari komponen dan transistor, sambungkan kabelnya, lalu lihat arus mengalir.",
+  "lang": "id",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#1d2b24",
+  "theme_color": "#1d2b24",
+  "categories": ["education", "games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
