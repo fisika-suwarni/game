@@ -1,5 +1,5 @@
 /* Service worker Game Fisika XII. Naikkan VERSI setiap kali file game diubah. */
-const VERSI = 'fisika-xii-v1';
+const VERSI = 'fisika-xii-v3';
 const LOKAL = ['./', './index.html', './manifest.webmanifest', './icons/icon-192.png', './icons/icon-512.png', './icons/icon-maskable-512.png', './icons/apple-touch-icon.png'];
 const THREE = 'https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js';
 const LUAR = ['cdn.jsdelivr.net', 'fonts.googleapis.com', 'fonts.gstatic.com'];
